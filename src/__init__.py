@@ -1,1 +1,1 @@
-from .start import soma_dois_numeros
+from .main import main
